@@ -1,1 +1,0 @@
-Temp/ScriptUpdater/325267976/161457213_LoginManager.cs => Assets/Scripts/LoginManager.cs
